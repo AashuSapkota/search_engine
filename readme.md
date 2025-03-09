@@ -1,6 +1,10 @@
 ## **Projects**
+This project consists of two tasks aimed at developing tools for document retrieval and classification:
 
-
+### Task 1: Search Engine
+The goal is to design and implement a vertical search engine tailored to retrieve academic papers and books specifically authored by members of Coventry University’s School of Economics, Finance, and Accounting. 
+### Task 2: Subject Classification
+This task involves creating a document classification system that can categorize texts into three distinct topics: Politics, Business, and Health. 
 
 #### **File Structure**
 ```
